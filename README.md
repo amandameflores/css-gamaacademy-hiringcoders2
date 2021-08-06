@@ -2,21 +2,21 @@
 
 ## Exercícios de CSS 
 
-01 - Introdução ao CSS
-02 - Tag Style
-03 - Tipos de Propriedades CSS
-04 - Propriedades: border, margin e padding
-05 - Propriedades: cores e tipografia
-06 - Introdução a Flexbox
-07 - Flexbox: align e justify
-08 - Flex-grow, flew-shrink e flex-basis
-09 - Seletores
-10 - Especificidade de Seletores CSS
-11 - Utilizando CSS no HTML
-12 - Media Queries
-13 - Prática de CSS
-14 - Prática: Flexbox
-15 - Prática: Media Query 
+- [x] 01 - Introdução ao CSS
+- [x] 02 - Tag Style
+- [x] 03 - Tipos de Propriedades CSS
+- [x] 04 - Propriedades: border, margin e padding
+- [x] 05 - Propriedades: cores e tipografia
+- [x] 06 - Introdução a Flexbox
+- [x] 07 - Flexbox: align e justify
+- [x] 08 - Flex-grow, flew-shrink e flex-basis
+- [x] 09 - Seletores
+- [x] 10 - Especificidade de Seletores CSS
+- [x] 11 - Utilizando CSS no HTML
+- [x] 12 - Media Queries
+- [x] 13 - Prática de CSS
+- [x] 14 - Prática: Flexbox
+- [x] 15 - Prática: Media Query 
 
 Screenshot do último exercício:
 
